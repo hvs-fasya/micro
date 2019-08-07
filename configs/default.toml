@@ -1,0 +1,6 @@
+Env = "dev"
+[Server]
+	Host = "127.0.0.1"
+ 	Port = "8080"
+ 	Timeout = "60s"
+ 	RequestsLog = "./requests.log"
